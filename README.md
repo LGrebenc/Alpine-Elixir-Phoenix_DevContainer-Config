@@ -1,5 +1,5 @@
 # Alpine-Elixir-Phoenix_DevContainer-Config
-Configuration files for an Alpine Linux based dev container, for Elixir/Phoenix framework development. Using the base Alpine dev container [image](https://mcr.microsoft.com/en-us/product/devcontainers/base/about), a Dockerfile to install Elixir, Phoenix framework, and their dependencies, and docker-compose to bring postgresql into the mix.
+Configuration files for an Alpine Linux based dev container, for [Elixir](https://elixir-lang.org/)/[Phoenix framework](https://www.phoenixframework.org/) development. Using the base Alpine dev container [image](https://mcr.microsoft.com/en-us/product/devcontainers/base/about), a Dockerfile to install Elixir, Phoenix framework, and their dependencies, and docker-compose to bring postgresql into the mix (a requirement of the Phoenix Framework).
 
 ## Requirements:
 - [Docker](https://docs.docker.com/get-docker/)
